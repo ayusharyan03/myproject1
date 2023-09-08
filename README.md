@@ -1,2 +1,2 @@
 # myproject1
-the firdt project by me 
+the first project by me 
